@@ -66,7 +66,7 @@ function renderMarkupInfo(data) {
     const { name, temperament, description } = breeds[0];
     const beerdCard = `<img class="photo-cat" width = "350px" src="${url}" alt="${name}">
     <div class="text-part" >
-  <h2 class="name-cat" style="margin-top: 0">${name}</h2>
+  <h2 class="name-cat">${name}</h2>
   <p class="deskripion-cat">${description}</p>
   <p class="temperament-cat"><span class="temperament-label">Temperament:</span> ${temperament}</p>  </div>`;
 

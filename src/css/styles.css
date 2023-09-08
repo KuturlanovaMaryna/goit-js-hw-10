@@ -12,6 +12,10 @@
     display: flex;
     
 }
+
+.name-cat{
+    margin-top: 0;
+}
 .loaderkey {
     width: 60px;
     height: 40px;
