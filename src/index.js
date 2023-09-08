@@ -3,6 +3,7 @@ import { fetchCatByBreed } from "./js/cat-api"
 import { Notify } from "notiflix";
 import SlimSelect from "slim-select";
 import 'slim-select/dist/slimselect.css'
+import './css/styles.css'
 
 
 
